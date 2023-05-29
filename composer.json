@@ -1,0 +1,16 @@
+{
+    "name": "flipgive/testbed",
+    "require": {
+        "cakephp/cakephp": "2.10.*",
+        "flipgive/shopcloud": "dev-main"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/BetterTheWorld/FlipGiveSDK_PHP.git"
+        }
+    ],
+    "config": {
+        "vendor-dir": "Vendor/"
+    }
+}
