@@ -200,12 +200,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/BetterTheWorld/FlipGiveSDK_PHP.git",
-                "reference": "5fe2315b5276cc935cb41437269b201f7f3b14c8"
+                "reference": "573bf223c6f8658f58c9f4d3cab6669ecd705769"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/BetterTheWorld/FlipGiveSDK_PHP/zipball/5fe2315b5276cc935cb41437269b201f7f3b14c8",
-                "reference": "5fe2315b5276cc935cb41437269b201f7f3b14c8",
+                "url": "https://api.github.com/repos/BetterTheWorld/FlipGiveSDK_PHP/zipball/573bf223c6f8658f58c9f4d3cab6669ecd705769",
+                "reference": "573bf223c6f8658f58c9f4d3cab6669ecd705769",
                 "shasum": ""
             },
             "require": {
@@ -235,7 +235,7 @@
                 "source": "https://github.com/BetterTheWorld/FlipGiveSDK_PHP/tree/main",
                 "issues": "https://github.com/BetterTheWorld/FlipGiveSDK_PHP/issues"
             },
-            "time": "2023-05-29T17:39:15+00:00"
+            "time": "2023-05-31T07:45:24+00:00"
         },
         {
             "name": "nesbot/carbon",
